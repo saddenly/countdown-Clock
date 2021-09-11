@@ -1,0 +1,17 @@
+html {
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+.timer__controls {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.timer__button {
+    margin: 0 5px;
+
+}
