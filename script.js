@@ -16,6 +16,7 @@ function timer(seconds) {
 
         if (secondsLeft < 0) {
             clearInterval(countdown);
+            alert('Time is up!');
             return;
         }
         displayTimeLeft(secondsLeft);
